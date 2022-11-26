@@ -2,10 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <title>docsify</title>
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>docsify-themeable - A delightfully simple theme system for docsify.js</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" title="vue">
 </head>
 <body>
   <div id="app"></div>
@@ -13,22 +14,24 @@
   <script>
     window.$docsify = {
       //...
+      name: '<b>Dsm Blog</b>',
+      nameLink: {
+        '/': '/#/readme.md',
+      },
+      auto2top: true,
       loadSidebar: true ,
+      autoHeader: true,
       subMaxLevel: 3,
-      sidebarDisplayLevel: 0,
-      search: 'auto', // 默认值
-
-      search : [
-        '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
-      ],
+      sidebarDisplayLevel: 1,
+      coverpage: {
+        '/': 'cover.md',
+        '/zh-cn/': 'cover.md'
+      },
 
       // 完整配置参数
       search: {
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: [], // or 'auto'
+        paths: 'auto', // or 'auto'
         placeholder: 'Type to search',
 
         // 支持本地化
@@ -46,7 +49,7 @@
         },
 
         // 搜索标题的最大层级, 1 - 6
-        depth: 2,
+        depth: 6,
 
         hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
 
@@ -75,5 +78,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" /> -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
 </body>
 </html>
