@@ -40,7 +40,13 @@ Dashboard->系统管理->全局工具配置
 
 
 ![logo](1.png ':size=WIDTHxHEIGHT')
+
+git安装路径可以在iTerm中通过`which git`命令获取
+
+
 ![logo](2.png ':size=WIDTHxHEIGHT')
+
+
 ![logo](3.png ':size=WIDTHxHEIGHT')
 
 Dashboard新建一个任务用(SampleAndroid)来编译git上的Android项目
@@ -59,9 +65,9 @@ jdk配置，可以选择安装的多个版本，应为当前是在本机，所�
 
 ![logo](6.png ':size=WIDTHxHEIGHT')
 
-要获取git的提交记录依赖一个插件`changelog-environment.hpi`，这个插件并不在jenkins的插件库中（[下载](https://github.com/KrisMarko/kr-changelog)）,下载后将`changelog-environment.hpi`拷贝到jenkins插件目录：
+要获取git的提交记录依赖一个插件`changelog-environment.hpi`，这个插件并不在jenkins的插件库中（[下载](https://github.com/KrisMarko/kr-changelog)）,下载后将`changelog-environment.hpi`拷贝到jenkins插件目录，然后可以通过`$SCM_CHANGELOG`获取日志：
 ```
-/Users/shaomin.deng/.jenkins/plugins
+/Users/xxx/.jenkins/plugins
 ```
 Dashboard->SampleAndroid->构建环境做下图配置
 ```
@@ -126,9 +132,9 @@ assembleRelease
 启动项目构建，`shell`脚本已经将commitlog.log文件写入到了app/src/main/assets中，app启动后可从assets中读取文件内容；
 ```
 1.0
-test commit 3(at 2022-12-06 00:37:27 via shaomin.deng)
-test commit 2(at 2022-12-06 00:36:17 via shaomin.deng)
-test commit 1(at 2022-12-06 00:34:03 via shaomin.deng)
+test commit 3(at 2022-12-06 00:37:27 via author)
+test commit 2(at 2022-12-06 00:36:17 via author)
+test commit 1(at 2022-12-06 00:34:03 via author)
 end
 ```
 由于mac系统是原生于bsd系，sed命令和gnu不同，如果想用sed实现在某一行插入一行文本,须通过换行实现:
