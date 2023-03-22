@@ -1,6 +1,8 @@
 - Android
 	- note
 		- [errors](/node/errors/error.md)
+		- [aspectjx在gradle7以上引入](/node/gradle7x-aspectjx/gradle7x-aspectjx.md)
+		- [动态加载flutter libapp.so](/node/dynamic-load-flutter/dynamic-load-flutter.md)
 		- [FlutterJsonBeanFactory](/node/FlutterJsonBeanFactory/FlutterJsonBeanFactory.md)
 		<!-- - [fataar解决Flutter打包依赖](/node/fat-aar/fat-aar.md) -->
 		- [gradle compress resource](/node/gradle-compress-resource.md)
