@@ -6,6 +6,7 @@
 		- [动态加载flutter libapp.so](/node/dynamic-load-flutter/dynamic-load-flutter.md)
 		- [FlutterJsonBeanFactory](/node/FlutterJsonBeanFactory/FlutterJsonBeanFactory.md)
 		<!-- - [fataar解决Flutter打包依赖](/node/fat-aar/fat-aar.md) -->
+		- [自定义Cli](/node/customer-cli/customer-cli.md)
 		- [gradle compress resource](/node/gradle-compress-resource.md)
 		- [托管H5到github page](/node/vue-github-page/vue-github-page.md)
 		- [jenkins获取git commit](/node/jenkins-git-commitlog/jenkins-git-commitlog.md)
