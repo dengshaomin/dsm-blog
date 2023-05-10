@@ -8,6 +8,7 @@ Tools • Dart 2.18.6 • DevTools 2.15.0
 
 ##### 背景
 线上flutter开发的页面出现严重bug时需要修复：示例实现从左侧页面到右侧页面的动态加载
+
 ![logo](0.png ':size=300x600')  ![logo](1.png ':size=300x600')
 
 ##### 源码查看

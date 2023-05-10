@@ -1,6 +1,7 @@
 - Android
 	- note
 		- [errors](/node/errors/error.md)
+		- [java锁](/node/java-lock/java-lock.md)
 		- [线程优化](/node/thread-optimizi/thread-optimizi.md)
 		- [aspectjx在gradle7以上引入](/node/gradle7x-aspectjx/gradle7x-aspectjx.md)
 		- [动态加载flutter libapp.so](/node/dynamic-load-flutter/dynamic-load-flutter.md)
