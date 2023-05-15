@@ -15,3 +15,4 @@
 
 	- android system
 		- [系统启动](/android-system/system-start/system-start.md)
+		- [apk安装](/android-system/apk-install/apk-install.md)
