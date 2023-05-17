@@ -11,8 +11,17 @@
 		- [gradle compress resource](/node/gradle-compress-resource.md)
 		- [托管H5到github page](/node/vue-github-page/vue-github-page.md)
 		- [jenkins获取git commit](/node/jenkins-git-commitlog/jenkins-git-commitlog.md)
-		- [jenkins pileline 持续集成](/node/jenkins-pileline-android/jenkins-pileline-android.md)
-
-	- android system
+		- [jenkins pileline 持续集成](/node/jenkins-pileline-android/jenkins-pileline-android.md
+	- android-system
+		- vitrual-machine
+			- [Android虚拟机历程](/android-system/virtual-machine/android-virtual-machine/android-virtual-machine.md)
+			- [java&dalvik&art虚拟机](/android-system/virtual-machine/java-dalvik-art-machine/java-dalvik-art-machine.md)
+			- [JVM垃圾回收](/android-system/virtual-machine/jmv-recycler-algorithm/jmv-recycler-algorithm.md)
 		- [系统启动](/android-system/system-start/system-start.md)
+		- [ContentProvider](/android-system/content-provider/content-provider.md)
 		- [apk安装](/android-system/apk-install/apk-install.md)
+		- [内存映射](/android-system/mmap/mmap.md)
+		- [Binder](/android-system/binder/binder.md)
+		- [Linux 内核空间与用户空间](/android-system/kernel-user-space/kernel-user-space.md)
+		- [文件读写过程](/android-system/file-read/file-read.md)
+		
