@@ -51,5 +51,8 @@
 
 	- 面试
 		- [常见问题](/interview/interview.md)
-	
+
+- VPN
+	- [vultr+v2ray搭建个人vpn](/vpn/vultr_v2ray/vultr_v2ray.md)	
+
 		
