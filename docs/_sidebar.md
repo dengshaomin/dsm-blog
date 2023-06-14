@@ -1,6 +1,6 @@
 - Android
 	- 笔记
-		- [errors](/node/errors/error.md)
+		- [Android数据Bean解析](/node/json-bean/json-bean.md)
 		- [java锁](/node/java-lock/java-lock.md)
 		- [线程优化](/node/thread-optimizi/thread-optimizi.md)
 		- [动态加载flutter libapp.so](/node/dynamic-load-flutter/dynamic-load-flutter.md)
@@ -14,6 +14,7 @@
 		- [字节码注入-javassist](/node/javassit/javassit.md)
 		- [字节码注入-AspectJ](/node/gradle7x-aspectjx/gradle7x-aspectjx.md)
 		- [字节码注入-ASM](/node/asm/asm.md)
+		- [errors](/node/errors/error.md)
 		
 	- 系统
 		- 虚拟机
