@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [多进程通信](/node/multi-process-community/multi-process-community.md)
 		- [Android数据Bean解析](/node/json-bean/json-bean.md)
 		- [java锁](/node/java-lock/java-lock.md)
 		- [线程优化](/node/thread-optimizi/thread-optimizi.md)
@@ -29,6 +30,7 @@
 		- [Linux 内核空间与用户空间](/android-system/kernel-user-space/kernel-user-space.md)
 		- [文件读写过程](/android-system/file-read/file-read.md)
 	- 网络
+		- [WebSocket](/net/web-socket/web-socket.md)
 		- [HTTP](/net/http/http.md) 
 		- [HTTP各版本区别](/net/http-version-diff/http-version-diff.md) 
 		- [HTTPS](/net/https/https.md) 
