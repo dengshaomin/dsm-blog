@@ -1,5 +1,10 @@
 - Android
 	- 笔记
+		- [ViewBinding封装](/node/view-binding/view-binding.md)
+		- [Crash捕捉&堆栈反混淆](/node/crash-retrace/crash-retrace.md)
+		- [Android事件分发](/node/touch-event/touch_event.md)
+		- [GoogleAutoService组件化框架](/node/google-auto-service/google-auto-service.md)
+		- [Android Annotation Processor](/node/andorid-annotation-processor/andorid-annotation-processor.md)
 		- [AndroidAsync部署本地服务器](/node/andorid-async/andorid-async.md)
 		- [多进程通信](/node/multi-process-community/multi-process-community.md)
 		- [Android数据Bean解析](/node/json-bean/json-bean.md)
