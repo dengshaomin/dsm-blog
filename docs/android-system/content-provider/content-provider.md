@@ -980,4 +980,6 @@ private ContentProviderHolder(Parcel source) {
 
 ***
 https://www.cnblogs.com/huansky/p/13837431.html
+
+https://ljd1996.github.io/2020/08/20/Android-ContentProvider%E5%8E%9F%E7%90%86/
 ***

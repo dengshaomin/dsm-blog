@@ -30,6 +30,8 @@
 			- [JVM垃圾回收](/android-system/virtual-machine/jmv-recycler-algorithm/jmv-recycler-algorithm.md)
 		- [系统启动](/android-system/system-start/system-start.md)
 		- [Application](/android-system/application/application.md)
+		- [AMS启动原理](/android-system/ams-start/ams-start.md)
+		- [Service原理](/android-system/service/service.md)
 		- [ContentProvider](/android-system/content-provider/content-provider.md)
 		- [apk安装](/android-system/apk-install/apk-install.md)
 		- [内存映射](/android-system/mmap/mmap.md)
