@@ -1,5 +1,7 @@
 - Android
 	- 笔记
+		- [Gradle笔记](/node/gradle-base/gradle-base.md)
+		- [Kotlin协程](/node/kotlin-coroutine/kotlin-coroutine.md)
 		- [ViewBinding封装](/node/view-binding/view-binding.md)
 		- [Crash捕捉&堆栈反混淆](/node/crash-retrace/crash-retrace.md)
 		- [Android事件分发](/node/touch-event/touch_event.md)
@@ -33,6 +35,8 @@
 		- [AMS启动原理](/android-system/ams-start/ams-start.md)
 		- [Service原理](/android-system/service/service.md)
 		- [ContentProvider](/android-system/content-provider/content-provider.md)
+		- [Activity启动流程](/source/activity/activity.md)
+		- [Broadcast](/android-system/broadcast/broadcast.md)
 		- [apk安装](/android-system/apk-install/apk-install.md)
 		- [内存映射](/android-system/mmap/mmap.md)
 		- [Binder](/android-system/binder/binder.md)
@@ -61,7 +65,7 @@
 		- [KeyStore](/safe/keystore/keystore.md)
 		
 	- 源码分析
-		- [Activity启动流程](/source/activity/activity.md)
+		- [SharedPreferences](/source/sharedpreferences/sharedpreferences.md)
 		- [ANR](/source/anr/anr.md)
 		- [CoordinatorLayout](/source/coordinatorlayout/coordinatorlayout.md)
 		- [Fresco](/source/fresco/freco.md)
