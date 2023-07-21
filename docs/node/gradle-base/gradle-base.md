@@ -1623,19 +1623,15 @@ build.gradle
 // com.hearing.plugin.properties
 implementation-class=com.hearing.plugin.PluginImpl
 build.gradle内容如下：
-
 apply plugin: 'groovy'
 apply plugin: 'maven'
-
 dependencies {
     implementation gradleApi()
     implementation localGroovy()
 }
-
 repositories {
     mavenCentral()
 }
-
 uploadArchives {
     repositories {
         mavenDeployer {

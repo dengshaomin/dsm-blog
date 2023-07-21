@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [Gradle调试](/node/gradle-debug/gradle-debug.md)
 		- [Gradle笔记](/node/gradle-base/gradle-base.md)
 		- [Kotlin协程](/node/kotlin-coroutine/kotlin-coroutine.md)
 		- [ViewBinding封装](/node/view-binding/view-binding.md)
