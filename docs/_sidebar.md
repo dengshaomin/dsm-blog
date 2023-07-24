@@ -1,5 +1,7 @@
 - Android
 	- 笔记
+		- [LifeCycle](/node/lifecycle/lifecycle.md)
+		- [LiveData&ViewModel](/node/livedata-viewmodel/livedata-viewmodel.md)
 		- [Gradle调试](/node/gradle-debug/gradle-debug.md)
 		- [Gradle笔记](/node/gradle-base/gradle-base.md)
 		- [Kotlin协程](/node/kotlin-coroutine/kotlin-coroutine.md)
