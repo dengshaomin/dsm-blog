@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [TextView](/node/textview/textview.md)
 		- [LifeCycle](/node/lifecycle/lifecycle.md)
 		- [LiveData&ViewModel](/node/livedata-viewmodel/livedata-viewmodel.md)
 		- [Gradle调试](/node/gradle-debug/gradle-debug.md)
