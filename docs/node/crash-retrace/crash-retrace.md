@@ -190,5 +190,5 @@ google对retrace的说明：https://developer.android.com/studio/build/shrink-co
 
 google对R8 retrace的说明：https://developer.android.com/studio/command-line/retrace?hl=zh-cn
 
-r8 retrace 相关工具下载：https://android.googlesource.com/platform/prebuilts/r8/+/refs/heads/master，点击tgz即可下载
+r8 retrace 相关工具下载：https://android.googlesource.com/platform/prebuilts/r8/+/refs/heads/master ，点击tgz即可下载
 如果不想使用R8可以在项目根目录的 gradle.properties 中写上 android.enableR8=false 即可，禁用过后编译、打包过程可能会报错，在 proguard-rules.pro 中写上 -ignorewarnings可以规避

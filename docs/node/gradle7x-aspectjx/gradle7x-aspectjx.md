@@ -10,6 +10,7 @@ plugins {
 }
 ```
 
+AspectJ：https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
 #### 遇到的问题
 
 * 将`setting.gradle repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)`修改为 `repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)`
