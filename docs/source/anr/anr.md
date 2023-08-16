@@ -276,3 +276,7 @@ BroardCast、ContentProvider的ANR机制也应该大概如此。
 
 1.  如果是ANR问题 ， 则搜索“ANR”关键词 。快速定位到关键事件信息 。
 2.  如果是ForceClosed(程序强制关闭) 和其它异常退出信息，则搜索"Fatal" 关键词， 快速定位到关键事件信息 。
+
+***
+https://juejin.cn/post/7171684761327370277#heading-5
+***

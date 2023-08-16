@@ -1,6 +1,6 @@
 搭建环境：Mac Pro
 
-
+* mac安装 jenkins：https://www.jenkins.io/download/lts/macos/
 * 使用pileline构建
 * 上传蒲公英
 * 发送邮件
