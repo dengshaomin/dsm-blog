@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [AndroidStudio编译可执行jar](/node/as-build-jar/as-build-jar.md)
 		- [TextView](/node/textview/textview.md)
 		- [LifeCycle](/node/lifecycle/lifecycle.md)
 		- [LiveData&ViewModel](/node/livedata-viewmodel/livedata-viewmodel.md)
