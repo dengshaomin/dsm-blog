@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [App加固](/node/app-encrypt/app-encrypt.md)
 		- [AndroidStudio编译可执行jar](/node/as-build-jar/as-build-jar.md)
 		- [TextView](/node/textview/textview.md)
 		- [LifeCycle](/node/lifecycle/lifecycle.md)
@@ -12,7 +13,7 @@
 		- [Android事件分发](/node/touch-event/touch_event.md)
 		- [GoogleAutoService组件化框架](/node/google-auto-service/google-auto-service.md)
 		- [Android Annotation Processor](/node/andorid-annotation-processor/andorid-annotation-processor.md)
-		- [AndroidAsync部署本地服务器](/node/andorid-async/andorid-async.md)
+		- [AndroidAsync部署本地服务器](/node/android-async/android-async.md)
 		- [多进程通信](/node/multi-process-community/multi-process-community.md)
 		- [Android数据Bean解析](/node/json-bean/json-bean.md)
 		- [java锁](/node/java-lock/java-lock.md)
