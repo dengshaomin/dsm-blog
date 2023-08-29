@@ -687,7 +687,9 @@ java -jar /Users/shaomin.deng/gitproject/JavaJar/jiagu/build/libs/jiagu.jar
 
 ### source code
 
-[壳工程](node/app-encrypt/UnShellApp.zip)
+<a href="node/app-encrypt/UnShellApp.zip" download>壳工程</a>
+
+<a href="node/app-encrypt/JavaJar.zip" download>加固工程</a>
 
 ***
 其他一些加密方式，合并所有dex：
