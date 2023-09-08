@@ -1,5 +1,6 @@
 - Android
 	- 笔记
+		- [App路径说明](/node/andorid-all-path/andorid-all-path.md)
 		- [App跳首页广告](/node/skip-ad/skip-ad.md)
 		- [App加固](/node/app-encrypt/app-encrypt.md)
 		- [AndroidStudio编译可执行jar](/node/as-build-jar/as-build-jar.md)
