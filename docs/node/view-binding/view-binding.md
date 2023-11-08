@@ -810,4 +810,6 @@ class TestDialog(context: Context): BaseBindingDialog<DialogTestBinding>(context
 
 ```
 https://juejin.cn/post/7064498827931156493
+
+https://github.com/androidbroadcast/ViewBindingPropertyDelegate
 ```
