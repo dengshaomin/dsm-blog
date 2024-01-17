@@ -1,3 +1,7 @@
+* #### <font color="red">  android textview lineSpacingMultiplier 会导致 ellipsize失效</font>
+
+https://www.jianshu.com/p/cb3909953f80
+
 * #### <font color="red">  flutter web部署github白屏不显示 </font>
 新建workflow的时候将 flutter build web 改成：flutter build web --release --web-renderer html --base-href /your_repository_name/；
 
